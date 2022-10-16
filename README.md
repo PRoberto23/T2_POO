@@ -1,6 +1,6 @@
 <html>
   <body>
-    <h4> https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO</h4>
+    ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO)
     <h1> T2_POO </h1>
 Repositório reservado para armazenar os códigos que ultilizamos para resolver os problemas propostos nas questões. 
 
