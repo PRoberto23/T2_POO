@@ -1,9 +1,7 @@
-
-GitHub code size in bytes (https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO)
 <html>
   <body>
     <h1> T2_POO </h1>
-Repositório reservado para armazenar os códigos que ultilizamos para resolver os problemas propostos nas questões. 
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO"> 
 
 <h2> Equipe </h2>
 Integrantes: <br>
