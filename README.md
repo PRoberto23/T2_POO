@@ -1,7 +1,8 @@
 <html>
   <body>
+    <h4> https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO</h4>
     <h1> T2_POO </h1>
-Repositório reservado para armazenar as questões que foram escolhidas e resolvidas para aprimorar os conhecimentos básicos em java. As questões aqui guardadas servirão para o professor analisar nossos conhecimentos. 
+Repositório reservado para armazenar os códigos que ultilizamos para resolver os problemas propostos nas questões. 
 
 <h2> Equipe </h2>
 Integrantes: <br>
