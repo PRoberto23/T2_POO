@@ -4,6 +4,7 @@
     <h3> Tags </h3>
   <div><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/PRoberto23/T2_POO"></div>
   <div><img alt="GitHub repo file count" src="https://img.shields.io/github/directory-file-count/PRoberto23/T2_POO"></div>
+  <div><img alt="GitHub" src="https://img.shields.io/github/license/PRoberto23/T2_POO"> </div>
 
 <h2> Equipe </h2>
 Integrantes: <br>
